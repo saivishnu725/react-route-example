@@ -1,15 +1,13 @@
-import './App.css';
-
-function App() {
+function Settings() {
   return (
     <div className="App">
       <header className="App-header">
         <p>
-          Hello world!!
+          Hello settings!!
         </p>
       </header>
     </div>
   );
 }
 
-export default App;
+export default Settings;
