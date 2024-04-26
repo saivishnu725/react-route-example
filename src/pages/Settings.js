@@ -1,4 +1,7 @@
+import { useTitle } from '../index';
+
 function Settings() {
+  useTitle('Settings');
   return (
     <div className="App">
       <header className="App-header">

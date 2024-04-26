@@ -1,4 +1,7 @@
-function Register() {
+import { useTitle } from '../index';
+
+function NotFound() {
+    useTitle('404 Not Found');
     return (
         <div className="App">
             <header className="App-header">
@@ -10,4 +13,4 @@ function Register() {
     );
 }
 
-export default Register;
+export default NotFound;
