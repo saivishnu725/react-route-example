@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# react-route-example
+
+Example working of the react-route-dom options.
+While trying to React's Routing, I realised that almost all the tutorials and articles were old. This made me create this example project where I tried some static and dynamic routing options that I felt necessary for me. I might try some more and add it here when I get to it.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
